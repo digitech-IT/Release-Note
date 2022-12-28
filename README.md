@@ -2,6 +2,7 @@
 # Support Number:  
 ![phone](https://img.shields.io/static/v1?label=&message=01678-862522&color=green)
 ![](https://img.shields.io/static/v1?label=&message=01698-980387&color=blue)
+| [top](#objects) | :phone: | `:phone:` <br /> `:telephone:` | :telephone_receiver: | `:telephone_receiver:` | [top](#table-of-contents) |
 
 # PAIPAI POS 1.1.5
 
