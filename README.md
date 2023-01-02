@@ -12,7 +12,7 @@ January 02,2022
 
 * 7.5 ভ্যাট সংযোজন করা হয়েছে
 
-![](https://github.com/digitech-IT/Release-Note/blob/PaiPai-Pos/images/release1_1.1.6.png)
+![](https://raw.githubusercontent.com/digitech-IT/Release-Note/PaiPai-Pos/images/release1_1.1.6.png)
 
 ## সমস্যার সমাধান
 
