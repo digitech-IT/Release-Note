@@ -12,7 +12,7 @@ April 04,2023
 ## নতুন কি
 * Area Create
 
-![] https://github.com/digitech-IT/Release-Note/blob/PaiPai-Pos/images/Area%20Create.jpg
+
 
 * Dash board new design
 
