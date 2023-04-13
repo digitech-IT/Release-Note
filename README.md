@@ -4,6 +4,21 @@
 ☎️ `01950-728313`
 📱 `01608-980127`
 
+# PAIPAI POS 1.2
+
+April 04,2023
+
+
+## নতুন কি
+
+* Dash board new design
+
+![](https://github.com/digitech-IT/Release-Note/blob/PaiPai-Pos/images/Screenshot%202023-04-13%20120816.png)
+
+## সমস্যার সমাধান
+
+
+
 # PAIPAI POS 1.1.6
 
 January 02,2022
