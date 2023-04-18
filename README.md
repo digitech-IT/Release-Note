@@ -11,7 +11,7 @@ Apri 18. 2023
 ![](https://github.com/digitech-IT/Release-Note/blob/0f927ebd552fb8c68cd51ca9c4dceb0001e187ef/Area.png)
 
 সম্মানিত গ্রাহক,
-অত্যন্ত আনন্দের সাথে জানাচ্ছি যে, Pai Pai POS এর নতুন ভার্সন রিলিস/আপডেট হয়েছে।
+অত্যন্ত আনন্দের সাথে জানাচ্ছি যে, Pai Pai POS এর নতুন ভার্সন এবং ফিচার আপডেট হয়েছে।
 উক্ত ভার্সনে Area Create, Area Wise Report, Area Wise SO Assign ইত্যাদি সুবিধা পাবেন।
 পরবর্তীত আপডেট ফিচার পেতে আমাদের সাথেই থাকুন। ধন্যবাদ। 
 
