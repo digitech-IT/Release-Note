@@ -5,7 +5,7 @@
 
 # PAIPAI POS v1.2.2
 
-Apri 18. 2023
+Apri 18, 2023
 
 ## নতুন আপডেট
 ![](https://github.com/digitech-IT/Release-Note/blob/0f927ebd552fb8c68cd51ca9c4dceb0001e187ef/Area.png)
