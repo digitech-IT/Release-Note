@@ -8,7 +8,7 @@
 Apri 18, 2023
 
 ## নতুন আপডেট
-![](https://raw.githubusercontent.com/digitech-IT/Release-Note/PaiPai-Pos/images/Area%20Create.jpg)
+![](https://raw.githubusercontent.com/digitech-IT/Release-Note/PaiPai-Pos/images/Area.png)
 
 সম্মানিত গ্রাহক,
 অত্যন্ত আনন্দের সাথে জানাচ্ছি যে, Pai Pai POS এর নতুন ভার্সন এবং ফিচার আপডেট হয়েছে।
