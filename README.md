@@ -1,8 +1,7 @@
 
 # Support Number:  
 📱 `01678-862522` (Mr. Liton)
-📱 `01608-980124` (Mr. Andro Kishore)
-📱 `01608-980387` (Mr. Asiqur Rahman)
+📱 `01608-980180` (Janna Tuma Faria)
 
 # PAIPAI POS v1.2.2
 
